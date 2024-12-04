@@ -57,3 +57,36 @@ O repositório está organizado em pastas, uma para cada módulo do curso:
 ├── Modulo09_Modelagem_Dados_Categorizados/
 ├── Modulo10_SQL_Analise_de_Dados/
 └── README.md
+
+---
+
+## 🛠️ **Tecnologias Utilizadas**
+
+- **Python** (Pandas, NumPy, Matplotlib, Scikit-learn, etc.)
+- **SQL**
+- **Jupyter Notebook**
+- Ferramentas de desenvolvimento como **VS Code** e **Google Colab**
+
+---
+
+## 🧑‍💻 **Autor**
+
+**Eric Bonelli Leonel**  
+Cientista de Dados em formação. Explorando o mundo da análise e modelagem de dados para resolver problemas reais.
+
+---
+
+## 🌟 **Contribuições**
+
+Contribuições e sugestões são bem-vindas!  
+Sinta-se à vontade para abrir um _issue_ ou enviar um _pull request_.
+
+---
+
+## 📧 **Contato**
+
+- **Email:** [ericbonelli@yahoo.com.br](mailto:ericbonelli@yahoo.com.br)  
+- **LinkedIn:** [www.linkedin.com/in/ericbonelli](https://www.linkedin.com)
+
+---
+
