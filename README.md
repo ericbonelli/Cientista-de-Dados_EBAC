@@ -43,7 +43,7 @@ O curso é estruturado em 10 módulos principais, cada um com projetos aplicados
 ## 📂 **Estrutura do Repositório**
 
 O repositório está organizado em pastas, uma para cada módulo do curso. Cada pasta contém os seguintes itens:
-- O enunciado do projeto.
+- O enunciado do projeto. (Em Construção)
 - O código-fonte em Python.
 - Os arquivos de dados utilizados.
 - Um relatório ou notebook com a análise ou resultado final.
