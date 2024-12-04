@@ -42,21 +42,28 @@ O curso é estruturado em 10 módulos principais, cada um com projetos aplicados
 
 ## 📂 **Estrutura do Repositório**
 
-O repositório está organizado em pastas, uma para cada módulo do curso:
+O repositório está organizado em pastas, uma para cada módulo do curso. Cada pasta contém os seguintes itens:
+- O enunciado do projeto.
+- O código-fonte em Python.
+- Os arquivos de dados utilizados.
+- Um relatório ou notebook com a análise ou resultado final.
+
+### Estrutura de Pastas
 
 ```plaintext
 .
-├── Modulo01_Python_para_Analise_de_Dados/
-├── Modulo02_Ciencia_de_Dados_CRISP_DM/
-├── Modulo03_Python_em_Ciencia_de_Dados/
-├── Modulo04_Desenvolvimento_Aplicacoes_Python/
-├── Modulo05_Modelos_com_Pandas_e_Python/
-├── Modulo06_Gestao_Avancada_de_Dados/
-├── Modulo07_Agrupamento_Segmentacao_Dados/
-├── Modulo08_Modelagem_Estatistica_Regressao/
-├── Modulo09_Modelagem_Dados_Categorizados/
-├── Modulo10_SQL_Analise_de_Dados/
+├── [Modulo01_Python_para_Analise_de_Dados](./Modulo01_Python_para_Analise_de_Dados)
+├── [Modulo02_Ciencia_de_Dados_CRISP_DM](./Modulo02_Ciencia_de_Dados_CRISP_DM)
+├── [Modulo03_Python_em_Ciencia_de_Dados](./Modulo03_Python_em_Ciencia_de_Dados)
+├── [Modulo04_Desenvolvimento_Aplicacoes_Python](./Modulo04_Desenvolvimento_Aplicacoes_Python)
+├── [Modulo05_Modelos_com_Pandas_e_Python](./Modulo05_Modelos_com_Pandas_e_Python)
+├── [Modulo06_Gestao_Avancada_de_Dados](./Modulo06_Gestao_Avancada_de_Dados)
+├── [Modulo07_Agrupamento_Segmentacao_Dados](./Modulo07_Agrupamento_Segmentacao_Dados)
+├── [Modulo08_Modelagem_Estatistica_Regressao](./Modulo08_Modelagem_Estatistica_Regressao)
+├── [Modulo09_Modelagem_Dados_Categorizados](./Modulo09_Modelagem_Dados_Categorizados)
+├── [Modulo10_SQL_Analise_de_Dados](./Modulo10_SQL_Analise_de_Dados)
 └── README.md
+```
 
 ---
 
